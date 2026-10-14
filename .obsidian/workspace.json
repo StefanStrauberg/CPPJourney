@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "338b9afa85969dbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3ec3ca6e3d5347d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9425da78e168b83a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏠 Главная.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🏠 Главная"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da713ce5bd4e42df",
+    "type": "split",
+    "children": [
+      {
+        "id": "e884d862e4af31d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3f275b44f67be8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "dae8cf8335590485",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "f13e2657006a1ea6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6522277ac3496dd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "93fcdf6fe4c4a8f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fee84452c25837f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "a573e453297a844a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "1e8262308f1170e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "58e0b9cf45219e74",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "9ce994f8f7630b26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "9425da78e168b83a",
+  "lastOpenFiles": [
+    "📊 Прогресс.base",
+    "Как проходить курс.md",
+    "🏠 Главная.md",
+    "00 Инструменты/00.1 Что такое C++ и почему движки пишут на нём.md",
+    "03 Память и указатели/03.6 Сырые байты — memcpy, reinterpret_cast и std byte.md",
+    "Справочник/Шпаргалка — CMake.md",
+    "Справочник/Частые ошибки MSVC.md",
+    "Справочник/Глоссарий.md",
+    "03 Память и указатели/03.6 Сырые байты — memcpy, reinterpret_cast и std byte.md.tmp.6644.f32d32e0ebf3",
+    "03 Память и указатели/03.5 Неопределённое поведение и AddressSanitizer.md.tmp.6644.a29b84ed93b5",
+    "03 Память и указатели/03.5 Неопределённое поведение и AddressSanitizer.md",
+    "03 Память и указатели/03.5 Неопределённое поведение и AddressSanitizer.md.tmp.6644.e6480f38f512",
+    "01 Основы языка/01.7 Первые составные типы — array, vector, struct.md",
+    "01 Основы языка/Практикум 01 — Основы.md",
+    "01 Основы языка/01.1 Анатомия программы.md",
+    "01 Основы языка/01.4 Биты и байты.md",
+    "01 Основы языка/01.5 Управление потоком.md",
+    "00 Инструменты/00.2 Как исходник становится программой.md",
+    "00 Подготовка/00.4 Отладчик и чтение ошибок.md",
+    "00 Подготовка/00.2 Настройка окружения.md",
+    "00 Подготовка/00.3 Как исходный код становится программой.md",
+    "01.5 Функции.md",
+    "01 Основы языка/01.1 Первая программа, ввод и вывод.md",
+    "00 Подготовка/00.1 Как устроен курс.md"
+  ]
+}

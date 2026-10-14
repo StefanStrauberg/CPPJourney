@@ -1,0 +1,69 @@
+/* =========================================================
+   Оформление курса C++ — собственные типы callout-блоков
+   Использование в заметке:  > [!ub] Заголовок
+   ========================================================= */
+
+/* Неопределённое поведение — самое опасное в C++ */
+.callout[data-callout="ub"] {
+    --callout-color: 220, 38, 38;
+    --callout-icon: lucide-skull;
+}
+
+/* Сравнение с C#, Python, Go */
+.callout[data-callout="compare"] {
+    --callout-color: 124, 58, 237;
+    --callout-icon: lucide-git-compare;
+}
+
+/* Под капотом — углублённый разбор */
+.callout[data-callout="deep"] {
+    --callout-color: 8, 145, 178;
+    --callout-icon: lucide-microscope;
+}
+
+/* Условие задачи */
+.callout[data-callout="task"] {
+    --callout-color: 37, 99, 235;
+    --callout-icon: lucide-dumbbell;
+}
+
+/* Подсказка к задаче */
+.callout[data-callout="hint"] {
+    --callout-color: 217, 119, 6;
+    --callout-icon: lucide-lightbulb;
+}
+
+/* Решение задачи */
+.callout[data-callout="solution"] {
+    --callout-color: 22, 163, 74;
+    --callout-icon: lucide-check-circle;
+}
+
+/* Вопрос с собеседования */
+.callout[data-callout="interview"] {
+    --callout-color: 219, 39, 119;
+    --callout-icon: lucide-briefcase;
+}
+
+/* Проверь себя */
+.callout[data-callout="quiz"] {
+    --callout-color: 79, 70, 229;
+    --callout-icon: lucide-help-circle;
+}
+
+/* Как это устроено в игровых движках */
+.callout[data-callout="engine"] {
+    --callout-color: 234, 88, 12;
+    --callout-icon: lucide-cpu;
+}
+
+/* Попробуй сам — маленький эксперимент прямо в уроке */
+.callout[data-callout="try"] {
+    --callout-color: 13, 148, 136;
+    --callout-icon: lucide-flask-conical;
+}
+
+/* Таблицы в уроках — чуть компактнее */
+.markdown-rendered table {
+    font-size: 0.95em;
+}
